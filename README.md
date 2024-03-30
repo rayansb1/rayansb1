@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Rayan Bawazeer Software Engineer
+- 👀 I’m interested in Languages and framework for web page and moblie application
+- 🌱 I’m currently learning Javascript, Typeescript, React, React Native
