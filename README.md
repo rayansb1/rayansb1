@@ -4,8 +4,8 @@ Software Engineering student who is passionate about learning and discovering ne
 
 # Skills
 
-- **Programming Languages:** Html/Css, Javascript/Typescript, PHP, Java
-- **Frontend Development:** HTML, CSS, React.js, React Native
+- **Programming Languages:** HTML/CSS, Javascript/Typescript, PHP, Java
+- **Frontend Development:** HTML/CSS, React, React Native
 - **Databases:** MySQL
 - **Version Control:** Git, GitHub
 
@@ -19,7 +19,7 @@ Software Engineering student who is passionate about learning and discovering ne
 **Project 2: [Amnoon Website]**
 
 - **Description:** Website for Amnoon Security Consulting Company.
-- **Technologies Used:** Html/Css, Javascript
+- **Technologies Used:** HTML/CSS, Javascript
 - **GitHub Repository:** [Amnoon Website](https://github.com/rayansb1/AmnoonWebsite)
 
 **Project 3: [Calculator]**
@@ -33,4 +33,4 @@ Software Engineering student who is passionate about learning and discovering ne
 # Contact Me
 
 - **Email:** [rayanbawazeer1@hotmail.com](mailto:rayanbawazeer1@hotmail.com)
-- **LinkedIn:** [Your LinkedIn Profile URL](https://www.linkedin.com/in/rayansb1/)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/rayansb1/)
