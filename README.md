@@ -4,8 +4,8 @@ Software Engineering who is passionate about learning and discovering new techno
 
 # Skills
 
-- **Programming Languages:** HTML/CSS, Javascript, PHP, Java
-- **Frontend Development:** HTML/CSS, React, React Native
+- **Programming Languages:** HTML/CSS, Javascript, PHP, Java, Dart
+- **Frontend Development:** HTML/CSS, React, Flutter
 - **Databases:** MySQL
 - **Version Control:** Git, GitHub
 
