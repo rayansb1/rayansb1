@@ -31,5 +31,3 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a stro
 - **Email:** [rayanbawazeer1@hotmail.com](mailto:rayanbawazeer1@hotmail.com)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/rayansb1)
 - **Portfolio:** [Portfolio Website](https://rayanbawazeer.netlify.app)
-
-Feel free to explore my repositories and connect with me!
