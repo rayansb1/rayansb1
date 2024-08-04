@@ -1,36 +1,35 @@
 # Rayan Bawazeer
 
-Software Engineering who is passionate about learning and discovering new technologies, programming languages, and frameworks in the field of front-end development of web pages and mobile applications. I start development by conceiving the idea, then thinking about a software solution, and finally starting to build it using the latest technologies.
+Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a strong interest in front-end development for web and mobile applications. I thrive on learning new technologies and leveraging modern tools to build effective software solutions.
 
-# Skills
+## Skills
 
-- **Programming Languages:** HTML/CSS, Javascript, PHP, Java, Dart
+- **Programming Languages:** HTML/CSS, JavaScript, PHP, Java, Dart
 - **Frontend Development:** HTML/CSS, React, Flutter
 - **Databases:** MySQL
 - **Version Control:** Git, GitHub
 
-# Projects
+## Projects
 
-**Project 1: [Invoice Uploader]**
+### [Invoice Uploader](https://github.com/rayansb1/InvoiceUploader)
 
-- **Description:** An application developed on Power App. You can take a picture of invoices, name them, and choose their type, and the application will save them in the form of arranged files on the SharePoint platform.
+- **Description:** An application developed on Power App that allows users to take pictures of invoices, name them, select their type, and save them as organized files on the SharePoint platform.
 - **Technologies Used:** Power App, Power Automate
 
-**Project 2: [Amnoon Website]**
+### [Amnoon Website](https://github.com/rayansb1/AmnoonWebsite)
 
-- **Description:** Website for Amnoon Security Consulting Company.
-- **Technologies Used:** HTML/CSS, Javascript
-- **GitHub Repository:** [Amnoon Website](https://github.com/rayansb1/AmnoonWebsite)
+- **Description:** A website developed for Amnoon Security Consulting Company.
+- **Technologies Used:** HTML/CSS, JavaScript
 
-**Project 3: [Calculator]**
+### [Amnoon Invoice Management](https://github.com/rayansb1/AmnoonInvoiceManagement)
 
-- **Description:** Calculator that performs simple operations.
-- **Technologies Used:** Javascript, Typescript, React, React Native
-- **GitHub Repository:** [In Javascript](https://github.com/rayansb1/CalculatorJS)
-- **GitHub Repository:** [In Typescript](https://github.com/rayansb1/CalculatorTS)
-- **GitHub Repository:** [In React Native](https://github.com/rayansb1/CalculatorReactNative)
+- **Description:** A robust web application for efficient invoice collection and processing, ensuring accurate financial records management.
+- **Technologies Used:** HTML/CSS, JavaScript, React, Node.js
 
-# Contact Me
+## Contact
 
 - **Email:** [rayanbawazeer1@hotmail.com](mailto:rayanbawazeer1@hotmail.com)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/rayansb1/)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/rayansb1)
+- **Portfolio:** [Portfolio Website](https://rayanbawazeer.netlify.app)
+
+Feel free to explore my repositories and connect with me!
