@@ -16,6 +16,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a stro
  **Description:**
  - The PowerApp application allows branches to upload invoices to a SharePoint Library in a dedicated file for each branch, organized in PDF format. 
  - It also enables viewing of previously uploaded invoices for the branch.
+ ---
  **Technologies Used:**
  - Power App, Power Automate, SharePoint
 
