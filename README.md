@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a stro
 ## Skills
 
 - **Programming Languages:** HTML/CSS, JavaScript, PHP, Java, Dart
-- **Frontend Development:** HTML/CSS, React, Flutter
+- **Framework:** React, Flutter
 - **Databases:** MySQL
 - **Version Control:** Git, GitHub
 
