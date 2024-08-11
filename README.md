@@ -49,7 +49,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a stro
 - HTML/CSS
 - JavaScript
 
-### [React Calculator](https://github.com/rayansb1/CalculatorJS)
+### [Calculator](https://github.com/rayansb1/CalculatorJS)
 
 **Description:**
 
