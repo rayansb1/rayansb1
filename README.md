@@ -60,7 +60,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a stro
 - React
 - HTML/CSS
 
-### [Weather App](https://github.com/rayansb1/Weather))
+### [Weather App](https://github.com/rayansb1/Weather)
 
 **Description:**
 
