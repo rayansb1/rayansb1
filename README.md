@@ -13,12 +13,16 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a stro
 
 ### [Invoice Uploader](https://github.com/rayansb1/InvoiceUploader)
 
- **Description:**
- - The PowerApp application allows branches to upload invoices to a SharePoint Library in a dedicated file for each branch, organized in PDF format. 
- - It also enables viewing of previously uploaded invoices for the branch.
- ---
- **Technologies Used:**
- - Power App, Power Automate, SharePoint
+## Description
+
+- The PowerApp application allows branches to upload invoices to a SharePoint Library in a dedicated file for each branch, organized in PDF format.
+- It also enables viewing of previously uploaded invoices for the branch.
+
+## Technologies Used
+
+- Power App
+- Power Automate
+- SharePoint
 
 ### [Amnoon Website](https://github.com/rayansb1/AmnoonWebsite)
 
