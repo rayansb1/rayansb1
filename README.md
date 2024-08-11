@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a stro
 ### [Amnoon Invoice Management](https://github.com/rayansb1/AmnoonInvoiceManagement)
 
 - **Description:** A robust web application for efficient invoice collection and processing, ensuring accurate financial records management.
-- **Technologies Used:** HTML/CSS, JavaScript, React, Node.js
+- **Technologies Used:** HTML/CSS, JavaScript, PHP
 
 ## Contact
 
