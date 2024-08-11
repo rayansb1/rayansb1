@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a stro
 ### [Invoice Uploader](https://github.com/rayansb1/InvoiceUploader)
 
  **Description:**
- -An application developed on Power App that allows users to take pictures of invoices, name them, select their type, and save them as organized files on the SharePoint platform.
+ - An application developed on Power App that allows users to take pictures of invoices, name them, select their type, and save them as organized files on the SharePoint platform.
 - **Technologies Used:** Power App, Power Automate
 
 ### [Amnoon Website](https://github.com/rayansb1/AmnoonWebsite)
