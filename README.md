@@ -49,7 +49,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a stro
 - HTML/CSS
 - JavaScript
 
-### [Weather App](https://github.com/rayansb1/Weather)
+### [Weather website](https://github.com/rayansb1/Weather)
 
 **Description:**
 
@@ -61,7 +61,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a stro
 - HTML/CSS
 - Weather API
 
-### [Calculator](https://github.com/rayansb1/CalculatorJS)
+### [Calculator website](https://github.com/rayansb1/CalculatorJS)
 
 **Description:**
 
