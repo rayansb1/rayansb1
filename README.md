@@ -24,15 +24,30 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a stro
 - Power Automate
 - SharePoint
 
-### [Amnoon Website](https://github.com/rayansb1/AmnoonWebsite)
-
-- **Description:** A website developed for Amnoon Security Consulting Company.
-- **Technologies Used:** HTML/CSS, JavaScript
-
 ### [Amnoon Invoice Management](https://github.com/rayansb1/AmnoonInvoiceManagement)
 
-- **Description:** A robust web application for efficient invoice collection and processing, ensuring accurate financial records management.
-- **Technologies Used:** HTML/CSS, JavaScript, PHP
+**Description:**
+
+ - The web application solves the problem of collecting purchase invoices.
+ - The first page is for the user to upload invoice details along with a picture of the invoice.
+ - The second page is for the accountant to verify that the entered data matches the invoice. If it does, they can click the "Submit" button to save it to the final list, or the "Delete" button to remove the invoice if it does not meet the requirements.
+
+**Technologies Used:**
+
+- HTML/CSS
+- Javascript
+- PHP
+
+### [Amnoon Website](https://github.com/rayansb1/AmnoonWebsite)
+
+**Description:**
+
+- Website for Amnoon Security Consulting Company.
+
+**Technologies Used:**
+
+- HTML/CSS
+- Javascript
 
 ## Contact
 
