@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a stro
 
 ## Projects
 
-### [Invoice Uploader](https://github.com/rayansb1/InvoiceUploader)
+### [Invoice Uploader](#)
 
 **Description:**
 
@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a stro
 - Power Automate
 - SharePoint
 
-### [Amnoon Invoice Management](https://github.com/rayansb1/AmnoonInvoiceManagement)
+### [Amnoon Invoice Management](#)
 
 **Description:**
 
