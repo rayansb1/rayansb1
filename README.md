@@ -49,17 +49,6 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a stro
 - HTML/CSS
 - JavaScript
 
-### [Calculator](https://github.com/rayansb1/CalculatorJS)
-
-**Description:**
-
-- A simple yet functional calculator built using React. It supports basic arithmetic operations and has a user-friendly interface.
-
-**Technologies Used:**
-
-- React
-- HTML/CSS
-
 ### [Weather App](https://github.com/rayansb1/Weather)
 
 **Description:**
@@ -71,6 +60,17 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a stro
 - React
 - HTML/CSS
 - Weather API
+
+### [Calculator](https://github.com/rayansb1/CalculatorJS)
+
+**Description:**
+
+- A simple yet functional calculator built using React. It supports basic arithmetic operations and has a user-friendly interface.
+
+**Technologies Used:**
+
+- React
+- HTML/CSS
 
 ## Contact
 
