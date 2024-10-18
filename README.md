@@ -49,7 +49,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a stro
 - HTML/CSS
 - JavaScript
 
-### [Weather website](https://github.com/rayansb1/Weather)
+### [Weather Website](https://github.com/rayansb1/Weather)
 
 **Description:**
 
@@ -60,6 +60,20 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a stro
 - React
 - HTML/CSS
 - Weather API
+
+### [Promonote App](#)
+
+**Description:**
+
+- A mobile application with three main sections: Home Page, Notification Page, and Timer Page.
+  - **Home Page:** Provides buttons for navigating to the Notification and Timer pages.
+  - **Notification Page:** Allows users to choose a date and enter a note, sending a notification with the note on the selected date.
+  - **Timer Page:** Starts a 25-minute timer, followed by a notification to take a 5-minute break.
+
+**Technologies Used:**
+
+- Dart
+- Flutter
 
 ## Contact
 
