@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a stro
 ## Skills
 
 - **Programming Languages:** HTML/CSS, JavaScript, PHP, Java, Dart
-- **Frameworks:** React, Flutter
+- **Frameworks:** React, JavaFX, Flutter
 - **Databases:** MySQL
 - **Version Control:** Git, GitHub
 
@@ -60,17 +60,6 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a stro
 - React
 - HTML/CSS
 - Weather API
-
-### [Calculator website](https://github.com/rayansb1/CalculatorJS)
-
-**Description:**
-
-- A simple yet functional calculator built using React. It supports basic arithmetic operations and has a user-friendly interface.
-
-**Technologies Used:**
-
-- React
-- HTML/CSS
 
 ## Contact
 
