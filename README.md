@@ -1,6 +1,6 @@
 # Rayan Bawazeer
 
-Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a strong interest in front-end development for web and mobile applications. I thrive on learning new technologies and leveraging modern tools to build effective software solutions.
+Welcome to my GitHub profile! I’m a Software Engineering student passionate about development and creating innovative solutions to enhance everyday life. I enjoy learning new technologies and turning ideas into practical applications.
 
 ## Skills
 
