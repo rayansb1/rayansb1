@@ -1,4 +1,4 @@
-# Hi, I'm **Rayan Bawazeer** 👨🏻‍💻
+# Hi, I'm **Rayan Bawazeer** 👋🏼
 
 A passionate **Software Engineering student** building innovative solutions with modern technologies.
 
