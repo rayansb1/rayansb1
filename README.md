@@ -9,4 +9,4 @@ A passionate **Software Engineering student** building innovative solutions with
 
 ## Contact  
 - [rayanbawazeer1@hotmail.com](mailto:rayanbawazeer1@hotmail.com)  
-- [LinkedIn Profile](#) | [Portfolio](#)
+- [LinkedIn Profile](linkedin.com/in/rayansb1) | [Portfolio](https://rayanbawazeer.netlify.app)
