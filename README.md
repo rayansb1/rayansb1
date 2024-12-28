@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m a Software Engineering student passionate ab
 
 - **Programming Languages:** HTML/CSS, JavaScript, PHP, Java, Dart
 - **Frameworks:** React, JavaFX, Flutter
-- **Version Control:** Git, GitHub
+- **Version Control:** GitHub, Git
 
 ## Contact
 
