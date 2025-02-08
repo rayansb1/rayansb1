@@ -1,6 +1,6 @@
 # Hi, I'm **Rayan Bawazeer**
 
-A passionate **Software Engineering student** building innovative solutions with modern technologies.
+A passionate Software Engineering student building innovative solutions with modern technologies.
 
 ## Skills  
 - **Languages**: HTML/CSS, JavaScript, PHP, Java, Dart  
